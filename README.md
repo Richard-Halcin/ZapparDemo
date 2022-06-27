@@ -4,19 +4,6 @@ This repository contains an AR example using the Zappar SDK for ThreeJS. This sp
 ​
 To learn more about Zappar for ThreeJS, head over to the [Zappar for ThreeJS](https://www.npmjs.com/package/@zappar/zappar-threejs) (@zappar/zappar-threejs) page on npm.
 ​
-## Preview
-​
-Scan the QR code below using your native camera app or QR code reader to view the example:
-​
-![Preview QR Code"](preview-qr-code.png)
-​
-## Prerequisites
-​
-To get started you'll want to ensure you have:
-​
-- installed Node.js version 10 or later
-- printed out the example target image, `example-tracking-image.png` (image tracked projects only)
-​
 ## Running the Project
 ​
 Once you have cloned this repository, open a terminal in the root directory of this project and follow these steps to get started.
